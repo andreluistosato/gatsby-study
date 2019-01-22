@@ -1,1 +1,1 @@
-# react-study
+# gatsby-study
